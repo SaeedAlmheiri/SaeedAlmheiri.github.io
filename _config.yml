@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Saeed Almheiri (سعيد المهيري)" # Update this with the title of your site, this is the default if not overridden by a page
 title_separator          : "-"
 name                     : &name "Saeed Almheiri"
@@ -23,12 +23,12 @@ repository               : "SaeedAlmheiri/SaeedAlmheiri.github.io" # The GitHub 
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #
+  avatar           : profile.png # filename of profile image placed in /images/ for author profile
   name             : "Saeed Almheiri"
   pronouns         : # example: "she/her"  
-  bio              : "NLP PhD Student at MBZUAI"
+  bio              : "LLMs Alignment · Access Control · User Preference · Multilingual & Cultural NLP"
   location         : "United Arab Emirates"
-  employer         : "Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)"
+  employer         : "MBZUAI"
   uri              : # URL
   email            : "Saeed.Y@mbzuai.ac.ae"
 
