@@ -23,7 +23,7 @@ repository               : "SaeedAlmheiri/SaeedAlmheiri.github.io" # The GitHub 
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : profile.png # filename of profile image placed in /images/ for author profile
+  avatar           : avatar_calligraphy.png # filename of profile image placed in /images/ for author profile
   name             : "Saeed Almheiri"
   pronouns         : # example: "she/her"  
   bio              : "LLMs Alignment · Access Control · User Preference · Multilingual & Cultural NLP"
@@ -108,7 +108,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light" # (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
